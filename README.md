@@ -1,3 +1,3 @@
 # Structures and Interpretation of Computer Programs (Harold Abelson, Gerald Jay Sussman, Julie Sussman)
 
-Readme stuff
+To run each program, I use DrRacket.
